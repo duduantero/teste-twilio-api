@@ -1,0 +1,6 @@
+{
+    "name": "root/twilio-php-app",
+    "require": {
+        "twilio/sdk": "^7.9"
+    }
+}
